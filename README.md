@@ -1,9 +1,7 @@
 # Hello there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```python
-#!/usr/bin/python
+![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 # -*- coding: utf-8 -*-
 
 
