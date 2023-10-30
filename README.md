@@ -1,29 +1,23 @@
-<?php
+# Hello there 👋
 
-namespace 66ixxx;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'qlfkw öiihqwolfk',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            'pxowlixqnwlrqvzhunChxj'
 
-        ];
-    }
+class Multi.tool:
 
-    public function getFutureGoal(): string
-    {
-        return 'mhghq wdj ehvvhu Cx zhughq dov lfk hv jhvwhuq zdu.';
-    }
-}
+    def __init__(self):
+        self.name = "66ixxx"
+        self.role = "Multifunctional Problem Solver"
+        self.language_spoken = ["lu_LU", fr_FR", "en_US", "de_DE"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find what u are looking for.")
+
+
+me.say_hello()
+```
