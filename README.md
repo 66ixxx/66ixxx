@@ -12,7 +12,7 @@ class Multi.tool:
     def __init__(self):
         self.name = "66ixxx"
         self.role = "Multifunctional Problem Solver"
-        self.language_spoken = ["lu_LU", fr_FR", "en_US", "de_DE"]
+        self.language_spoken = ["lu_LU", "fr_FR", "en_US", "de_DE"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find what u are looking for.")
